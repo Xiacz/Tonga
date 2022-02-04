@@ -1,1 +1,6 @@
 TROPOMI OE SO2 retrieval
+
+For volcanic condition:
+  Filename: +Initial-plume-altitude+_SO2V_+volcano-name+_+year+-+mon+-+day+-+orbit-number+.h5
+For cleanacific condition:
+  Filename: Cleanpacific_SO2_+year+-+mon+-+day+-+orbit-number+.h5
